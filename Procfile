@@ -1,1 +1,1 @@
-web: python mixerbot.py
+web: python mixerBot.py
